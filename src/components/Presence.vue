@@ -1,10 +1,5 @@
 <template>
 	<div>
-		<img src="../assets/rise.png">
-		<img src="../assets/rise_blue.png">
-		<img src="../assets/rise_green.png">
-		<img src="../assets/rise_orange.png">
-		<img src="../assets/rise_red.png">
 		<table v-if="data" class="table table-dark">
 			<thead>
 				<tr>
